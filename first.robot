@@ -9,3 +9,4 @@ Demo0
     Click Element  //*[@id="sb_form"]/label/svg
     #Press Key    //*[@id="sb_form_q"]    //13
     Capture Page Screenshot
+    [Teardown]  Close All Browsers
