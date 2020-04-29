@@ -12,5 +12,5 @@ Demo0
     Press Keys    //*[@id="sb_form_q"]    \\13
     Log  alma7
     Capture Page Screenshot
-    Fail  Mert csak!
+    Fail  Mert csak azért!
     [Teardown]  Close All Browsers
